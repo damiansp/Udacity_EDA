@@ -1,0 +1,11 @@
+References used for this project:
+
+Many searches in Stack Overflow (stackoverflow.com), and in the documentation for various R 
+packages (http://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf, etc.).
+
+I have had extensive education in statistics, and have made use of that in this project.  While I
+cannot recall all of the materials I have learned from, I wish to especially reference two of the
+most useful:
+
+-Crawley, Michael J.  2005. Statistics: An Introduction Using R. Wiley.
+-Faraway, Julian J. 2004. Linear Models with R. Taylor & Francis.
